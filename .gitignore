@@ -1,0 +1,5 @@
+/vendor/
+/simple-tests/
+/nbproject/
+/node_modules/
+.DS_Store

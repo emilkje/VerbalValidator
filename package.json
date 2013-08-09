@@ -1,0 +1,27 @@
+{
+  "name": "VerbalValidator",
+  "version": "0.1.0",
+  "description": "The complete validation for PHP",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-phpunit": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.1",
+    "growl": "~1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:emilkje/VerbalValidator.git"
+  },
+  "keywords": [
+    "PHP",
+    "Verbal",
+    "Validation"
+  ],
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Emil Kjelsrud",
+  "license": "MIT"
+}

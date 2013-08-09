@@ -1,0 +1,22 @@
+{
+    "name": "Emilkje/VerbalValidator",
+    "description": "The complete validation.",
+    "require": {
+        "markwilson/verbal-expressions-php": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+				"filp/whoops": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emil Kjelsrud",
+            "email": "emilkje@gmail.com"
+        }
+    ],
+	"autoload": {
+        "psr-0": {"Emilkje\\": "src/"}
+    },
+    "minimum-stability": "stable"
+}
